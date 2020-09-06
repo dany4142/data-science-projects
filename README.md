@@ -1,12 +1,13 @@
 # DATA SCIENCE PROJECTS
 
-This is the preview of the data science projects I am recently working on, these include: 
+Below are the few categories of the projects I am working on:(the other projects will be updated soon)
+
 1. Data Mining
-2. Preprocessing, Insight Generation, Visualization
-3. Machine Learning, i.e. Supervised and Unsupervised
-4. Model Deployment
-5. Natural Language Processing
+2. Exploratory Data Analysis, Visualization, Interactive Plotting
+3. Machine Learning Applications
+4. Natural Language Processing
+5. SQL Pipelines and Query Optimization Techniques
 
-These projects are built on exciting aspects of daily life to uncover trends and pattern in data leveraging technology. These trends, practices and insights, in turn, gives a comprehensive overview of markets, businesses, demographics. The purpose of these projects is to provide the reader with the enlightenment of daily life and to equip business holder with insights and recommendations to improve their businesses. 
+All the projects are built to serve and optimize a business goal i.e. land better outcomes and maximize success metrics. All these projects have the incorporation of the latest research publications to make sure we get the most out of these projects.
 
-Please feel free to contact me on daniyalahmed4142@gmail.com if you have any recommendations for improvement, any projects you would like me to work on or if wish to collaborate on a project. 
+Please feel free to contact me on daniyalahmed4142@gmail.com if you have any recommendations for improvement, or if wish to collaborate on a project. 
